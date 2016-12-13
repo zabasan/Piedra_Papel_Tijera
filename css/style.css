@@ -1,0 +1,25 @@
+table, thead, th, td, tr, tbody {
+	border: 1px solid black;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+ .juego, .estadisticas {
+ 	display: flex;
+ 	justify-content: center;;
+ }
+ #texto {
+ 	top: 20px;
+    position: absolute;
+    font-size: 50px;
+ }
+
+.botones {
+	display: flex;
+	justify-content: center;
+}
+
+#resultado {
+	margin-left: 20px;
+}
